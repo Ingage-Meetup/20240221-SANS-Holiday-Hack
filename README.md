@@ -79,7 +79,9 @@ Get stuck? Go back through your notes and brainstorm
 ### Challenge 1 - Combination Lock
 
 Location: Steampunk Island - Brass Bouy Port
+
 Talk To: Bow Ninecandle
+
 Skill: Understand how to defeat Master lock combination locks
 
 Hints / Links
@@ -99,8 +101,11 @@ Addition Challenges:
 ### Challenge 2 - Snowball Fight
 
 Location: Christmas Island - Frosty's Beach, left past the sponsor booths
+
 Talk to: Morcel Nougat
+
 Skill: JavaScript, reading code, browser reconnaissance
+
 Addition Challenges:
 
 - Beat the game in single player mode
@@ -112,25 +117,33 @@ Addition Challenges:
 #### Azure 101
 
 Location: Christmas Island – Rudolph’s Rest, left bottom corner of island
+
 Talk to: Sparkle Redberry
+
 Skill: Azure CLI, Cloud reconnaissance
 
 #### Linux 101
 
 Location: Christmas Island – Frosty’s Beach, left past sponsor booths
+
 Talk to: Ginger Breddle
+
 Skill: Linux command line, Linux tools
 
 ### Challenge 4 - Na'an
 
 Location: Film Noir Island
+
 Talk to: Shifty McShuffles
+
 Skill: JavaScript, code reading, blind attacks, server side attacks, technology enumeration
 
 ### Challenge 5 - Hashcat
 
 Location: Island of Misfit Toys - Scaredy Kite Heights
+
 Talk to: Eve Snowshoes
+
 Skill: Recover / Crack a password
 
 # C3ProjectTemplate
